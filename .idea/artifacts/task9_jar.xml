@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="task9:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/task9_jar</output-path>
+    <root id="archive" name="task9.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
